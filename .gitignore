@@ -16,6 +16,4 @@ env/
 .DS_Store
 .vscode/
 .idea/
-test*
-cleanup_json.py
-generate_json.py
+dditional features
