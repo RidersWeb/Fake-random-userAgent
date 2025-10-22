@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Installer and Packaging files
+dist/
+build/
+*.egg-info/
+.venv/
+env/
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+test*
+cleanup_json.py
+generate_json.py
